@@ -1,0 +1,6 @@
+{
+  "name": "Apex Pay",
+  "description": "A high-growth fintech super app combining digital wallets, currency exchange, gift card trading, and AI financial insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
